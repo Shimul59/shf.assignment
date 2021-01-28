@@ -1,0 +1,13 @@
+form{
+    margin-left: 150px;
+    font-size: 25px;
+    color:rgb(233, 243, 98);
+}
+
+button{
+    color:rgb(255, 255, 255);
+    background:rgb(0, 55, 143);
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 15%;
+}
