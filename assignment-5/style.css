@@ -398,3 +398,14 @@ span:hover a{
     font-weight: 800;
     font-size: 30px;
 }
+
+/* Focus section */
+
+.focus{
+    height: 300px;
+}
+
+.focus form input:focus{
+    font-size: 20px;
+    background-color: yellow;
+}
