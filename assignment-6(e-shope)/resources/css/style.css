@@ -1,0 +1,75 @@
+/* BASIC SETUP */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+	scroll-behavior: smooth;
+}
+body{
+    font-family: 'Roboto', sans-serif !important;
+	font-size: 1.6rem;
+    text-rendering: optimizeLegibility;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+}
+ul li{
+    list-style-type: none; }
+.clearfix::after{
+	content:"";
+	display: table;
+	clear: both;
+	height: 0;
+	visibility: hidden;
+}
+.fix{
+    overflow: hidden; }
+.left{
+    float: left; }
+.right{
+    float: right; }
+a{
+    text-decoration: none }
+a:visited{
+          color: nilineblue; }
+
+/* REUSABLE COMPONANTS */
+
+.main_wrap{
+    width:100% ;
+}
+.wrap{
+    width: 960px;
+    margin: 0 auto;
+    background-color: rgba(141, 140, 140, 0.144);
+}
+
+
+
+/* nav bar */
+.logo{
+    font-family: 'Open Sans',
+    sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
